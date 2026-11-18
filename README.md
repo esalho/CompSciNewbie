@@ -1,0 +1,2 @@
+# CompSciNewbie
+Tietojenkäsittelytieteen perusteita mahdollisimman aloittelijaystävällisesti esitettynä.
